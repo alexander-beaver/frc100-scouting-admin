@@ -1,0 +1,15 @@
+html, body{
+    width: 100%;
+    max-width: 100%;
+    padding: none;
+    margin: none;
+    overflow-x: hidden;
+	scroll-behavior: smooth;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
+}
+
+#scoring, #scoring_container{
+    width: 100%;
+}
+
