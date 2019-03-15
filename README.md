@@ -1,0 +1,1 @@
+# frc100-scouting-admin
